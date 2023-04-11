@@ -1,0 +1,73 @@
+html {
+    background-color: #131417;
+}
+
+* {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+body {
+    background-color: #252830;
+}
+
+.header,
+main {
+    padding-top: 20px;
+    color: #fff;
+}
+
+.footer {
+    background-color: #252830;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Space Grotesk', sans-serif;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #0dcaf0;
+}
+
+.nav-item:hover {
+    color: #0dcaf0;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul li {
+    display: inline;
+    padding: 10px;
+}
+
+.myphoto {
+    height: 300px;
+    width: auto;
+    align-items: center;
+    margin: 5px;
+}
+
+.contactBtn {
+    border-radius: 5px;
+    color: #131417;
+}
+
+.buttonContact:hover {
+    color: #131417;
+}
+
+.container {}
+
+.card-img-top {
+    width: 16rem;
+    height: auto;
+}
+
+.card-text {
+    font-size: 16px;
+}
